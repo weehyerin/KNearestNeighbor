@@ -26,7 +26,7 @@ knn 알고리즘은 가까운 이웃을 기준으로 class를 분류하기 때�
 ### Euclidean 유사도
 가장 쉽게 이해할 수 있는 거리 계산 법이다. 
 단순히, 점 p와 점 q의 직선 거리만 구하면 된다. 
-![euclidean](/Users/weehyerin/Desktop/euclidean.gif)
+![euclidean](/Users/weehyerin/Desktop/euclidean.jpg)
 
 - knn algorith
 - without library
